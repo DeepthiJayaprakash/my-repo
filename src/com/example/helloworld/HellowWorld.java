@@ -10,21 +10,11 @@ public class HellowWorld {
         System.out.println("Hello World" + y);
 
         for (int i = 0; i < 5; i++) {
-            System.out.println("i");
+            System.out.println("The value of i is"+i);
         }
-        if () {
             display();
         }
 
     }
 
-
-
-    }
-
-    private static void getShow() {
-        show();
-    }
-
-}
 
